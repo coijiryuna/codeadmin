@@ -29,7 +29,7 @@ to your `app` folder. The affected files can be copied or merged from
 `php spark db:seed BoilerplateSeeder`
 
 gunakan myth.zip hapus folder myth ganti dengan hasil extrak file myth.zip
-
+```
 Default user and password
 +----+--------+-------------+
 | No | User   | Password    |
