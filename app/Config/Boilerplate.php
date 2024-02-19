@@ -13,7 +13,7 @@ class Boilerplate extends BaseConfig
     // App name
     //--------------------------------------------------------------------------
 
-    public $appName = 'SiMamba';
+    public $appName = 'Boilerplate';
 
     //--------------------------------------------------------------------------
     // Dashboard controller
@@ -65,8 +65,8 @@ class Boilerplate extends BaseConfig
             'brand' => [
                 'bg'   => 'gray-dark',
                 'logo' => [
-                    'icon'   => '../icon.ico', // path to image | this example icon on public root folder.
-                    'text'   => '<strong>Si</strong>Mamba',
+                    'icon'   => '../favico.ico', // path to image | this example icon on public root folder.
+                    'text'   => '<strong>Boiler</strong>plate',
                     'shadow' => 2,
                 ],
             ],
@@ -77,7 +77,7 @@ class Boilerplate extends BaseConfig
         ],
         'footer' => [
             'fixed'      => false,
-            'vendorname' => 'BAZNAS Kabupaten Tangerang',
+            'vendorname' => 'Boilerplate',
             'vendorlink' => 'https://baznastangerangkab.or.id',
         ],
     ];
