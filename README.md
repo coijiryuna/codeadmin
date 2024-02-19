@@ -23,12 +23,32 @@ When updating, check the release notes to see if there are any changes you might
 to your `app` folder. The affected files can be copied or merged from
 `vendor/codeigniter4/framework/app`.
 
-##
+## Langkah
 `php spark migrate -all`
 
 `php spark db:seed BoilerplateSeeder`
 
 gunakan myth.zip hapus folder myth ganti dengan hasil extrak file myth.zip
+
+Default user and password
++----+--------+-------------+
+| No | User   | Password    |
++----+--------+-------------+
+| 1  | admin  | super-admin |
+| 2  | user   | super-user  |
++----+--------+-------------+
+```
+
+##Feature
+-------
+* Configurable backend theme [AdminLTE 3](https://adminlte.io/docs/3.0/)
+* CSS framework [Bootstrap 5](https://getbootstrap.com/)
+* Icons by [Font Awesome 5](https://fontawesome.com/)
+* Role-based permissions (RBAC) provided by [Myth/Auth](https://github.com/lonnieezell/myth-auth)
+* Dynamically-Generated Menu
+* Localized English / Indonesian
+* Helper onGroup mendapatkan nama group admin atau group lainnya..
+This project is still early in its development... please feel free to contribute!
 
 ## Setup
 
