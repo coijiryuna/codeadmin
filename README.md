@@ -47,7 +47,9 @@ Default user and password
 * Role-based permissions (RBAC) provided by [Myth/Auth](https://github.com/lonnieezell/myth-auth)
 * Dynamically-Generated Menu
 * Localized English / Indonesian
-* Helper onGroup mendapatkan nama group admin atau group lainnya..
+* Helper onGroup mendapatkan nama group admin atau group lainnya
+
+* 
 This project is still early in its development... please feel free to contribute!
 
 ## Setup
